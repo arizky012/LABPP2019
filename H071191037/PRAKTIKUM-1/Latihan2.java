@@ -9,8 +9,9 @@ class Latihan2{
         System.out.println("berat badan");
         float berat = input.nextFloat();
         System.out.println("persentase");
-
         float persentase = input.nextFloat(); //laki laki 10% dan perempuan 15%
+        input.close();
+        
         float beratIdeal = (tinggi - 100) - (persentase*(tinggi - 100)/100);
         float targetBeratBadan = beratIdeal - berat;
 

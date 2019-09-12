@@ -5,7 +5,10 @@ class Praktikum1{
         int waktu = input.nextInt();             //waktu yang ditempuh dalam perjalanan(jam)//
         int kecepatan = input.nextInt();         //kecepatan rata rata mobil (km/jam)
         float efisiensi = 14;
+        input.close();
+
         float hasil = (kecepatan * waktu)/ efisiensi;
+        
         System.out.printf("Bensin yang digunakan : %.3f L",hasil);
     }
 

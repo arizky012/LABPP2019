@@ -3,7 +3,8 @@ class Praktikum2{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int detik = input.nextInt(),tampung,jam,menit,detik2;     //variabel yang menampung jumlah detik//
-
+        input.close();
+        
         jam = detik / 3600;
         tampung = detik - (jam * 3600);
         menit = tampung / 60;

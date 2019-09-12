@@ -2,10 +2,10 @@ import java.util.Scanner;
 class Latihan4{
     public static void main(String[] args){
         Scanner inp = new Scanner(System.in);
-
         System.out.println("masukkan jumlah uang");
-        int uang = inp.nextInt();
+        int uang = Math.max(inp.nextInt(),0);
         int sisa,sisa2,sisa3,sisa4,sisa5,sisa6;
+        inp.close();
 
         int $100rb = uang / 100000;
         sisa = uang - ($100rb * 100000);
