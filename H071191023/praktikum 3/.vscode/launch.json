@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerulanganPrima",
+            "request": "launch",
+            "mainClass": "PerulanganPrima"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerulanganHorizontal",
+            "request": "launch",
+            "mainClass": "PerulanganHorizontal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerulanganHimpunan",
+            "request": "launch",
+            "mainClass": "PerulanganHimpunan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerulanganGenap11",
+            "request": "launch",
+            "mainClass": "PerulanganGenap11"
+        }
+    ]
+}
