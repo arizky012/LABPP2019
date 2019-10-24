@@ -8,7 +8,7 @@ public static void main(String[] args) {
     int y=sc.nextInt();
     sc.close();
 
-    for(int i=1; i<=y; i++){
+    for(int i=0; i<y; i++){
       System.out.print(i+" ");
     if (i%x==0){
         System.out.println();
