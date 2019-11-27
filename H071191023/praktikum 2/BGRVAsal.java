@@ -7,7 +7,7 @@ class BGRVAsal{
         System.out.println("2. Mencari volume bangun ruang");
         System.out.println("input angka sesuai menu yang di inginkan");
 
-        int angka = pew.nextInt();
+        int angka = sc.nextInt();
 
         if (angka == 1){
             System.out.println(" * pilih bangun datar * ");
