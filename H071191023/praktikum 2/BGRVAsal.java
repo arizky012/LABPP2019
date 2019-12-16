@@ -2,12 +2,12 @@ import java.util.Scanner;
 class BGRVAsal{
     public static void main(String[] args) {
         Scanner pew = new Scanner(System.in);
+        int angka = sc.nextInt();
         System.out.println(" * Menu* ");
         System.out.println("1. Mencari luas bangun datar");
         System.out.println("2. Mencari volume bangun ruang");
         System.out.println("input angka sesuai menu yang di inginkan");
 
-        int angka = sc.nextInt();
 
         if (angka == 1){
             System.out.println(" * pilih bangun datar * ");

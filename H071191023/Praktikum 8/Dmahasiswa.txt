@@ -1,0 +1,6 @@
+H021191056;fadf;adfaf;adff;#
+H021191002;Alf;MAkassar;#
+H071191023;Me;komp;World;#
+H03119123;Ifa;Fisika;Daya;#
+H071191015;Caca;ILkomp;Tidung;#
+H07123184;Asm;Ilkomp;Pare;#

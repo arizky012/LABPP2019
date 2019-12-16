@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BGRVAsal",
+            "request": "launch",
+            "mainClass": "BGRVAsal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TPJamDetik",
+            "request": "launch",
+            "mainClass": "TPJamDetik"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TPBahanBakar",
+            "request": "launch",
+            "mainClass": "TPBahanBakar"
+        }
+    ]
+}
